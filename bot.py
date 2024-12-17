@@ -7,7 +7,7 @@ import os
 TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 
 # URL du backend Flask déployé sur Heroku
-BACKEND_URL = 'https://nom-de-votre-app.herokuapp.com/ask'  # Remplacez par votre URL Heroku
+BACKEND_URL = https://tuteur-scolaire-f360a6f447ea.herokuapp.com/  # Remplacez par votre URL Heroku
 
 # Configuration des intents pour le bot
 intents = discord.Intents.default()
